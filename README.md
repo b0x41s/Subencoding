@@ -12,7 +12,7 @@ First we need to zero out a register, EAX using AND instructions.
 AND EAX,554E4D4A
 AND EAX,2A313235
 
-When we take each of these values and convert them from hex to binary well get: 
+When we take each of these values and convert them from hex to binary well get
 01010101010011100100110101001010
 00101010001100010011001000110101
 result
